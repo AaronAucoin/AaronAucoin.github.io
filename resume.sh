@@ -1,5 +1,7 @@
 #!/bin/bash
 
+display_resume() {
+  cat <<EOF
 ====================================
           John Doe's Resume         
 ====================================
@@ -28,3 +30,8 @@
 🛠️ Tools: Git, Docker, Linux
 
 ====================================
+EOF
+}
+
+# Call the function
+display_resume
