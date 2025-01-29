@@ -1,30 +1,32 @@
 #!/bin/bash
 
-echo "===================================="
-echo "          John Doe's Resume         "
-echo "===================================="
-echo ""
-echo "📧 Email: john.doe@example.com"
-echo "📞 Phone: +1 (123) 456-7890"
-echo "🌐 Website: https://johndoe.com"
-echo ""
-echo "=== Education ==="
-echo "🎓 Bachelor of Science in Computer Science"
-echo "   University of Example, 2018-2022"
-echo ""
-echo "=== Experience ==="
-echo "💼 Software Engineer"
-echo "   Example Corp, 2022-Present"
-echo "   - Developed scalable web applications."
-echo "   - Collaborated with cross-functional teams."
-echo ""
-echo "💼 Intern"
-echo "   Startup Inc, Summer 2021"
-echo "   - Assisted in backend development."
-echo "   - Wrote unit tests for critical systems."
-echo ""
-echo "=== Skills ==="
-echo "💻 Programming: Bash, Python, JavaScript"
-echo "🛠️ Tools: Git, Docker, Linux"
-echo ""
-echo "===================================="
+cat <<EOF
+====================================
+          John Doe's Resume         
+====================================
+
+📧 Email: john.doe@example.com
+📞 Phone: +1 (123) 456-7890
+🌐 Website: https://johndoe.com
+
+=== Education ===
+🎓 Bachelor of Science in Computer Science
+   University of Example, 2018-2022
+
+=== Experience ===
+💼 Software Engineer
+   Example Corp, 2022-Present
+   - Developed scalable web applications.
+   - Collaborated with cross-functional teams.
+
+💼 Intern
+   Startup Inc, Summer 2021
+   - Assisted in backend development.
+   - Wrote unit tests for critical systems.
+
+=== Skills ===
+💻 Programming: Bash, Python, JavaScript
+🛠️ Tools: Git, Docker, Linux
+
+====================================
+EOF
