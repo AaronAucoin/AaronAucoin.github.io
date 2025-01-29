@@ -1,21 +1,77 @@
-THIS IS A TEST TO SEE IF THIS WILL SHOW IN THE TERMIANL
+============================================================
+                      YOUR NAME
+               Computer Science Student
+============================================================
 
+[Your Email] | [Your Phone] | [Your Website or LinkedIn]
 
+------------------------------------------------------------
+  SUMMARY
+------------------------------------------------------------
+A brief summary about yourself, your experience, and 
+your career goals. Keep it concise and impactful.
 
+------------------------------------------------------------
+  PROJECTS
+------------------------------------------------------------
+Project Name
+[Programming Languages / Technologies Used]
+- Brief description of the project.
+- Key feature or achievement.
+- GitHub link (if applicable): [URL]
 
+Project Name
+[Programming Languages / Technologies Used]
+- Brief description of the project.
+- Key feature or achievement.
+- GitHub link (if applicable): [URL]
 
+Project Name
+[Programming Languages / Technologies Used]
+- Brief description of the project.
+- Key feature or achievement.
+- GitHub link (if applicable): [URL]
 
-+-----------------------------+
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
-|            HELLO            |
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
-+-----------------------------+
+------------------------------------------------------------
+  EXPERIENCE
+------------------------------------------------------------
+Company Name - Job Title
+[Start Date] - [End Date]
+- Key responsibility 1
+- Key responsibility 2
+- Key achievement 1
+- Key achievement 2
+
+Company Name - Job Title
+[Start Date] - [End Date]
+- Key responsibility 1
+- Key responsibility 2
+- Key achievement 1
+- Key achievement 2
+
+------------------------------------------------------------
+  EDUCATION
+------------------------------------------------------------
+Degree | Field of Study
+[University Name], [Year of Graduation]
+
+Relevant Coursework:
+- Course 1
+- Course 2
+- Course 3
+
+------------------------------------------------------------
+  CERTIFICATIONS & AWARDS
+------------------------------------------------------------
+- Certification/Award Name - [Year]
+- Certification/Award Name - [Year]
+
+------------------------------------------------------------
+  OTHER
+------------------------------------------------------------
+- Programming Languages: [Language 1, Language 2, Language 3]
+- Tools & Technologies: [Tool 1, Tool 2, Tool 3]
+- Hobbies/Interests: [Optional]
+- Languages Spoken: [Optional]
+
+============================================================
