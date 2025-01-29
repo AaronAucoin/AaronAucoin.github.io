@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Suppress command echoing
+set +x
+
+# Define the function to display the resume
 display_resume() {
   cat <<EOF
 ====================================
@@ -33,5 +37,5 @@ display_resume() {
 EOF
 }
 
-# Call the function
+# Call the function to display the resume
 display_resume
